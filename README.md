@@ -21,11 +21,11 @@
 
 # 🛠️ Abrir e rodar o projeto
 
-**Apresente as instruções necessárias para abrir e executar o projeto**
+**Use o link para ter o acesso ao projetos: click aqui!**
 
 # 🧠 Autores
-### `Nome do autor` 
-  > contribuição feita
+### `Vitor Odorico` 
+  > Desde a criação do designer ao desenvolvimento e versionamento do projeto.
 
 # 🛡️ Licenças 
 <h3>MIT</h3> <p>descrição da licença aqui!</p>
